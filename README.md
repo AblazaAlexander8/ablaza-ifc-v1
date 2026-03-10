@@ -8,6 +8,37 @@
 - preserves **birthdays & fixed holidays** via **day‑of‑year (DOY)** mapping (e.g., Jan 29 → Feb 1 in A‑IFC),
 - aligns **Day of Sol** with the **June solstice** (Sol‑4 in common, Sol‑5 in leap).
 
+
+**A‑IFC Month Index**
+
+- Month 1
+  -- January
+- Month 2
+  -- February
+- Month 3
+  -- March
+- Month 4
+  -- April
+- Month 5
+  -- May
+- Month 6
+  -- June
+- Month 7 — SOL (the mid‑year solstice month)
+  -- Sol (the mid‑year month containing the Solstice)
+- Month 8
+  -- July
+- Month 9
+  -- August
+- Month 10
+  -- September
+- Month 11
+  -- October
+- Month 12
+  -- November
+- Month 13
+  -- December
+
+
 ## Get started
 
 - See `SPEC/Ablaza_IFC_v1.0_Spec.md` for the formal rules.
