@@ -116,5 +116,5 @@ Sun Mon Tue Wed Thu Fri Sat
 ```
 ### Extra day in leap year
 ```text
-[29✚] (Dec‑29)
+[29✚] (Dec‑29) = Sunday year end by next year is a monday January 1
 ```
