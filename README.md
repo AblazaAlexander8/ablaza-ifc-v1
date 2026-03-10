@@ -3,7 +3,7 @@
 ### Alexan International Fixed Calendar (IFC) calendar days following the old International Fixed Calendar with high regards of no mystery days and observance of all religion tradition following a 7-days week cycle.
 #### The failure of passing by the League of Nations for the old IFC was due to the missing days that is not taken in the accounts and the people who disagreed with the missing 7-days traditions. 
 #### The successs of use of the old IFC was seen by the Kodak company implementing it for 61 years according to the public accounts that this is a success but there is a missing link.
-#### The sucess of this implementation Alex's International Fixed Calendar is going to resolve all borders issue and respects all culture, tradition and historical correctiveness with following the scientific approach of the Gregorian calendar having 365.2425 days.
+#### The sucess of this implementation Alexan's International Fixed Calendar is going to resolve issue and respects all culture, tradition and historical correctiveness with following the scientific approach of the Gregorian calendar having 365.2425 days.
 
 - keeps **every day real** (no off‑week “blank days”),
 - adds **Sol‑29** each year and **Dec‑29** in Gregorian leap years,
