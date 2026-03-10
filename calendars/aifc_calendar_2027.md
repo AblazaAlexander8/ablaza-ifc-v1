@@ -1,4 +1,4 @@
-# A‑IFC 2027
+# A‑IFC 2027 (non leap year)
 **Legend:** ★ Day of Sol; ✚ Sol‑29/Dec‑29
 
 ## Month 1 - January
@@ -58,12 +58,11 @@ Sun Mon Tue Wed Thu Fri Sat
 ## Month 7 — SOL
 ```text
 Sun Mon Tue Wed Thu Fri Sat
-  1   2
-  3  4★   5   6   7   8   9
+                     1   2
+  3  4★   5   6   7  8   9
  10  11  12  13  14  15  16
  17  18  19  20  21  22  23
- 24  25  26  27  28
-[29✚] - Friday
+ 24  25  26  27  28 [29✚] - Friday, next July 1 is a Saturday
 ```
 ## Month 8 - July
 ```text
