@@ -63,7 +63,7 @@ Sun Mon Tue Wed Thu Fri Sat
  10  11  12  13  14  15  16
  17  18  19  20  21  22  23
  24  25  26  27  28
-[29✚]
+[29✚] - Friday
 ```
 ## Month 8
 ```text
