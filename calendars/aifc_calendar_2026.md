@@ -62,8 +62,7 @@ Sun Mon Tue Wed Thu Fri Sat
  4★  5   6   7   8   9  10
  11  12  13  14  15  16  17
  18  19  20  21  22  23  24
- 25  26  27  28
-[29✚] - Thursday
+ 25  26  27  28 [29✚] - Thursday, for July 1 it is a Friday
 ```
 **Legend:** ★ Day of Sol - marks Gregorian June Solstice; ✚ Sol‑29/Dec‑29
 ## Month 8 - July
