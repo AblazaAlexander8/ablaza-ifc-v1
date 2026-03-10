@@ -11,7 +11,7 @@
 ## Astronomy anchors
 
 - **Day of Sol (June solstice):** **Sol‑4** in common years / **Sol‑5** in leap years (≈ Gregorian DOY 172/173; typically June 21).
-  **The day of Sol June solstice is usually June 21 so it will fall in month of Sol day 4 in common days but in leap years it will fall in month of Sol day 5 we strictly follow gregorian Day-of-year at 172 day/173 day.**
+  **The day of Sol June solstice is usually June 21 in Gregorian calendar so it will fall in month of Sol day 4 in common days but in leap years it will fall in month of Sol day 5 we strictly follow gregorian Day-of-year at 172 day/173 day.**
 - **Mid‑Year Day:** **Sol‑15** (calendar midpoint of 364‑day base).
   **The mid year day is the half year day count of the year in 365 at 183 or 184 day of year at month of Sol day 15.**
 ## Week policy
