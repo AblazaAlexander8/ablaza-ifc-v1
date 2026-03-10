@@ -41,6 +41,12 @@ What A‑IFC deliberately does NOT change:
 
 --- 
 ### This is exactly why A‑IFC is practical, adoptable, and compatible. Historians emphasize that the exact birth year of Jesus is not known, and likely several years earlier than AD. To explain that, currently we are 2026 as of this writing so we are using this for internationalization purpose not correcting history. And "2026" is not currently accurate for the historical precision of birth of Jesus Christ but we use it anyway in the Gregorian Calendar.
+
+####  Because the AD/BC system was created using a mistaken estimate of Jesus’ birth year, but the world adopted it anyway.
+#### The "AD" system didn't even become standard until centuries later
+#### It comes from a calculation error made in the 6th century by a monk named Dionysius Exiguus. He tried to calculate the year of Jesus’ birth and declared that Jesus was born in year 1 AD.
+#### But modern historians know today that this is not correct.
+
 ---
 **Example**
 
