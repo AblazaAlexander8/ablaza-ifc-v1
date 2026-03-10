@@ -65,6 +65,7 @@ Sun Mon Tue Wed Thu Fri Sat
  25  26  27  28
 [29✚]
 ```
+**Legend:** ★ Day of Sol - marks Gregorian June Solstice; ✚ Sol‑29/Dec‑29
 ## Month 8 - July
 ```text
 Sun Mon Tue Wed Thu Fri Sat
