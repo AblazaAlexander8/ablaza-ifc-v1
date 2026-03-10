@@ -63,9 +63,9 @@ Sun Mon Tue Wed Thu Fri Sat
   9  10  11  12  13  14  15
  16  17  18  19  20  21  22
  23  24  25  26  27  28
-``````text
 [29✚]
 ```
+Legend: ★ Day of Sol; ✚ Sol‑29/Dec‑29 / Sol-5
 ## Month 8
 ```text
 Sun Mon Tue Wed Thu Fri Sat
