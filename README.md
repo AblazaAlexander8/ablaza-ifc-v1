@@ -26,16 +26,20 @@ The **Alexan International Fixed Calendar** resolves these issues by:
 A‑IFC is therefore a **corrected, globally compatible evolution** of the original IFC.
 
 **A-IFC system is built to fix what's actually broken**
+
 What A‑IFC fixes:
-✔ Month lengths
-✔ Week alignment
-✔ Equalized structure
-✔ Leap-day handling
-✔ Multi-calendar compatibility
+- ✔ Month lengths
+- ✔ Week alignment
+- ✔ Equalized structure
+- ✔ Leap-day handling
+- ✔ Multi-calendar compatibility
+
 What A‑IFC deliberately does NOT change:
-❌ Year numbering
-❌ Epoch origin
-❌ International legal timebase
+ - ❌ Year numbering
+ - ❌ Epoch origin
+ - ❌ International legal timebase
+
+--- 
 This is exactly why A‑IFC is practical, adoptable, and compatible. Historians emphasize that the exact birth year of Jesus is not known, and likely several years earlier than AD. To explain that, currently we are 2026 as of this writing so we are using this for internationalization purpose not correcting history. And "2026" is not currently accurate for the historical precision of birth of Jesus Christ but we use it anyway in the Gregorian Calendar.
 ---
 
