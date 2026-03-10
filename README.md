@@ -73,7 +73,7 @@ The **Ablaza International Fixed Calendar (A‑IFC)** is a mathematically consis
 - Preserve **all real days** (no phantom/off‑week days)  
 - Stay aligned with Earth’s seasons via **Day‑of‑Sol** (June solstice)  
 - Support global coordination through **International Sol Day (Sol‑12)**  
-
+- We also support other calendar coordination like the Lunar system, and other calendar system.
 This calendar does **not replace** the Gregorian system.  
 It **refactors and improves** its inconsistencies while staying fully interoperable.
 
