@@ -1,6 +1,7 @@
 # Alexander Santos Ablaza International Fixed Calendar — Version 1.0
-
 **A‑IFC v1.0** is an equal‑month calendar (13×28 base) that:
+### Alexan calendar days following the old International Fixed Calendar with high regards of no mystery days and observance of all religion tradition following a 7-days week cycle.
+
 
 - keeps **every day real** (no off‑week “blank days”),
 - adds **Sol‑29** each year and **Dec‑29** in Gregorian leap years,
