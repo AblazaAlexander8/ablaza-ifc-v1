@@ -76,10 +76,9 @@ This places the label inside the civil **June 20–22** solstice window (≈ Gre
 **Note:** This observance is orthogonal to Day‑of‑Sol; it celebrates the calendar’s internal symmetry.
 - International Holiday Anchor (June Sol)
 
-**4.1 Purpose: **
+**4.1 Purpose:**
 - To establish a single, globally recognized observance in the Ablaza's/Alexan's IFC (A‑IFC) that:
-
-You can formally brand this later (e.g., “Global Day of Sol / G‑Sol Day”). For now, the spec name is International Sol Day (ISD).
+- You can formally brand this later (e.g., “Global Day of Sol / G‑Sol Day”). For now, the spec name is International Sol Day (ISD).
 
 **4.2 Legal/operational classification**
 - ISD is a non‑statutory international observance in the core A‑IFC spec.
