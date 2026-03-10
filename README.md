@@ -3,7 +3,23 @@
 ### Alexan International Fixed Calendar (IFC) calendar days following the old International Fixed Calendar with high regards of no mystery days and observance of all religion tradition following a 7-days week cycle.
 #### The failure of passing by the League of Nations for the old IFC was due to the missing days that is not taken in the accounts and the people who disagreed with the missing 7-days traditions. 
 #### The successs of use of the old IFC was seen by the Kodak company implementing it for 61 years according to the public accounts that this is a success but there is a missing link.
-#### The sucess of this implementation Alexan's International Fixed Calendar is going to resolve issue and respects all culture, tradition and historical correctiveness with following the scientific approach of the Gregorian calendar having 365.2425 days.
+#### The sucess of this implementation Alexan's International Fixed Calendar is going to resolve issue and respects all culture, tradition and historical correctiveness with following the scientific approach of the 
+
+Alexan's International Fixed Calendar (A‑IFC)
+A modern refinement of the Gregorian calendar that preserves compatibility while eliminating structural inefficiencies.
+##⭐ Overview
+The Ablaza International Fixed Calendar (A‑IFC) is a mathematically consistent, 13‑month calendar system designed to:
+
+Maintain full compatibility with the existing Gregorian dates
+Produce a regular, equal‑month structure for planning and analytics
+Fix long‑standing Gregorian irregularities
+Preserve all real days (no phantom/off‑week days)
+Stay aligned with the Earth’s seasons via Day‑of‑Sol (June Solstice)
+Support global coordination via an international anchor holiday (Sol‑12)
+This calendar does not replace Gregorian.
+It refactors its inconsistencies while remaining interoperable.
+
+Gregorian calendar having 365.2425 days.
 ** The original IFC has 2 mystery days which we do not follow, in this calendar we do not break traditions and we do not add mystery days. We make sure that it works and we follow all the historical dates synchronously without breaking the culture and this is an improvement to solve human calendar barrier. 
 
 - keeps **every day real** (no off‑week “blank days”),
