@@ -1,84 +1,112 @@
 # Alexander Santos Ablaza International Fixed Calendar — Version 1.0
-**A‑IFC v1.0** is an equal‑month calendar (13×28 base) that:
-### Alexan International Fixed Calendar (IFC) calendar days following the old International Fixed Calendar with high regards of no mystery days and observance of all religion tradition following a 7-days week cycle.
-#### The failure of passing by the League of Nations for the old IFC was due to the missing days that is not taken in the accounts and the people who disagreed with the missing 7-days traditions. 
-#### The successs of use of the old IFC was seen by the Kodak company implementing it for 61 years according to the public accounts that this is a success but there is a missing link.
-#### The sucess of this implementation Alexan's International Fixed Calendar is going to resolve issue and respects all culture, tradition and historical correctiveness with following the scientific approach of the 
 
-Alexan's International Fixed Calendar (A‑IFC)
-A modern refinement of the Gregorian calendar that preserves compatibility while eliminating structural inefficiencies.
-##⭐ Overview
-The Ablaza International Fixed Calendar (A‑IFC) is a mathematically consistent, 13‑month calendar system designed to:
+**A‑IFC v1.0** is an equal‑month calendar (13×28 base) that corrects the weaknesses of the old International Fixed Calendar while maintaining full compatibility with the Gregorian system.
 
-Maintain full compatibility with the existing Gregorian dates
-Produce a regular, equal‑month structure for planning and analytics
-Fix long‑standing Gregorian irregularities
-Preserve all real days (no phantom/off‑week days)
-Stay aligned with the Earth’s seasons via Day‑of‑Sol (June Solstice)
-Support global coordination via an international anchor holiday (Sol‑12)
-This calendar does not replace Gregorian.
-It refactors its inconsistencies while remaining interoperable.
+---
 
-Gregorian calendar having 365.2425 days.
-** The original IFC has 2 mystery days which we do not follow, in this calendar we do not break traditions and we do not add mystery days. We make sure that it works and we follow all the historical dates synchronously without breaking the culture and this is an improvement to solve human calendar barrier. 
+## Alexan International Fixed Calendar (A‑IFC)
+A scientifically grounded, culture‑respecting refinement of the earlier International Fixed Calendar — preserving all **7‑day week traditions**, eliminating **mystery days**, and ensuring **complete historical continuity**.
 
-- keeps **every day real** (no off‑week “blank days”),
-- adds **Sol‑29** each year and **Dec‑29** in Gregorian leap years,
-- matches the Gregorian engineered average **365.2425 days** to stay aligned with the **tropical year** (seasons),
-- preserves **birthdays & fixed holidays** via **day‑of‑year (DOY)** mapping (e.g., Jan 29 → Feb 1 in A‑IFC),
-- aligns **Day of Sol** with the **June solstice** (Sol‑4 in common, Sol‑5 in leap).
+### Why the Original International Fixed Calendar Failed
+The original IFC proposed by Moses Cotsworth was rejected by the League of Nations because it introduced **“blank days”** or **non‑weekly days**, breaking the continuous 7‑day religious cycle upheld by major world traditions.
 
+### What We Learned From the Kodak Implementation
+Despite being rejected globally, the IFC was successfully used internally by **Kodak for 61 years**, proving the *usability* and *practical efficiency* of a 13‑month equal‑month system.  
+However, the presence of “mystery days” meant it could not be adopted universally.
 
-**A‑IFC Month Index**
+### How A‑IFC Fixes the Missing Link
+The **Alexan International Fixed Calendar** resolves these issues by:
 
-- Month 1
-  -- January
-- Month 2
-  -- February
-- Month 3
-  -- March
-- Month 4
-  -- April
-- Month 5
-  -- May
-- Month 6
-  -- June
-- Month 7 — SOL (the mid‑year solstice month)
-  -- Sol (the mid‑year month containing the Solstice)
-- Month 8
-  -- July
-- Month 9
-  -- August
-- Month 10
-  -- September
-- Month 11
-  -- October
-- Month 12
-  -- November
-- Month 13
-  -- December
+- removing all non‑weekly “blank” days,  
+- keeping every day a real weekday,  
+- preserving all religious and cultural weekly cycles,  
+- maintaining scientific accuracy with the Gregorian astronomical year (**365.2425 days**),  
+- and retaining perfect alignment with historical dates.
 
+A‑IFC is therefore a **corrected, globally compatible evolution** of the original IFC.
 
-## Get started
+---
 
-- See `SPEC/Ablaza_IFC_v1.0_Spec.md` for the formal rules.
-- Converters live in `data/converters/{year}` (CSV & JSON both directions).
-- Printable calendars (13 months) live in `/calendars`.
+## ⭐ Overview
 
-## Regenerate
+The **Ablaza International Fixed Calendar (A‑IFC)** is a mathematically consistent 13‑month system designed to:
+
+- Maintain **full compatibility** with existing Gregorian dates  
+- Provide a **regular, equal‑month structure** for planning and analytics  
+- Fix long‑standing Gregorian irregularities  
+- Preserve **all real days** (no phantom/off‑week days)  
+- Stay aligned with Earth’s seasons via **Day‑of‑Sol** (June solstice)  
+- Support global coordination through **International Sol Day (Sol‑12)**  
+
+This calendar does **not replace** the Gregorian system.  
+It **refactors and improves** its inconsistencies while staying fully interoperable.
+
+---
+
+## 🌍 A Modern Refinement of the Gregorian Calendar
+
+> *Unlike the original IFC (which had 2 mystery days), A‑IFC keeps all traditions intact and removes all non‑weekly void days.*
+
+A‑IFC ensures:
+
+- **Every day is a real weekday** (no “blank” days)  
+- **Sol‑29** is added every year as a real day  
+- **Dec‑29** appears only in Gregorian leap years  
+- The engineered Gregorian average length (**365.2425**) is maintained  
+- **Birthdays and fixed holidays** convert cleanly through day‑of‑year mapping  
+  - Example: Jan 29 → A‑IFC Feb 1  
+- **Day‑of‑Sol** aligns with the actual June solstice  
+  - Sol‑4 (common years)  
+  - Sol‑5 (leap years)
+
+---
+
+## 📅 A‑IFC Month Index (Gregorian-Compatible Names)
+
+| Month Number | A‑IFC Name | Notes |
+|--------------|------------|--------|
+| Month 1 | January | |
+| Month 2 | February | |
+| Month 3 | March | |
+| Month 4 | April | |
+| Month 5 | May | |
+| Month 6 | June | |
+| **Month 7** | **Sol** | **Mid‑year solstice month** |
+| Month 8 | July | |
+| Month 9 | August | |
+| Month 10 | September | |
+| Month 11 | October | |
+| Month 12 | November | |
+| Month 13 | December | |
+
+---
+
+## 🚀 Get Started
+
+- See **`SPEC/Ablaza_IFC_v1.0_Spec.md`** for the formal rules.  
+- Converters are in **`data/converters/{year}`** (CSV & JSON).  
+- Printable 13‑month calendars are in **`/calendars`**.
+
+---
+
+## 🛠 Regenerate Calendar & Converters
+
+### Base: converters + calendars for 2026–2030
 
 ```bash
 python3 scripts/generate_aifc_pack.py 2026 2030
 ```
 
-# Base: converters + calendars for 2026–2030
+### Default (2026–2030)
 
 ```bash
 python3 scripts/generate_aifc_pack.py
 ```
 
-# With holidays & spec
+### With holidays & spec
 
 ```bash
 python3 scripts/generate_aifc_pack.py 2026 2030 --with-holidays --with-spec
 ```
+
+---
