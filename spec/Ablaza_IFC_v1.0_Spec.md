@@ -18,7 +18,7 @@
 
 International Holiday Anchor (June Sol)
 1) Purpose
-To establish a single, globally recognized observance in the Ablaza IFC (A‑IFC) that:
+To establish a single, globally recognized observance in the Ablaza's/Alexan's IFC (A‑IFC) that:
 
 Aligns with the calendar’s astronomical focus on Sol and the June solstice,
 Is predictable year‑to‑year, requires no off‑week days, and
