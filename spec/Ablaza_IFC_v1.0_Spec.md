@@ -75,6 +75,7 @@ This places the label inside the civil **June 20–22** solstice window (≈ Gre
 **Purpose:** ceremonial midpoint of the **13×28** structure (calendar symmetry), distinct from the astronomical solstice which is earlier in Sol.  
 **Note:** This observance is orthogonal to Day‑of‑Sol; it celebrates the calendar’s internal symmetry.
 - International Holiday Anchor (June Sol)
+
 **4.1 Purpose: **
 - To establish a single, globally recognized observance in the Ablaza's/Alexan's IFC (A‑IFC) that:
 
