@@ -48,7 +48,7 @@ Rationale:
 Tracks the Gregorian DOY 172/173 solstice window (≈ June 21) via your Day of Sol = Sol‑4 (common)/Sol‑5 (leap) convention, then places ISD immediately after it for a 1‑day “festival arc.”
 Requires a small annual table in the almanac if you ever choose to drift by ±1 based on the exact UTC instant; otherwise keep it at 5/6 as above for stability.
 
-Recommendation: Start with A) Sol‑10 for v1.0. You can always introduce a v1.1 “astro window” variant later with a published almanac table.
+Recommendation: Start with A) Sol‑12 for v1.0. You can always introduce a v1.1 “astro window” variant later with a published almanac table.
 
 4) Legal/operational classification
 
