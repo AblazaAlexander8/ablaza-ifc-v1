@@ -1,0 +1,3287 @@
+[
+  {
+    "GregorianDate": "2027-01-01",
+    "GregorianDOY": 1,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 1,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-02",
+    "GregorianDOY": 2,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 2,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-03",
+    "GregorianDOY": 3,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 3,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-04",
+    "GregorianDOY": 4,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 4,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-05",
+    "GregorianDOY": 5,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 5,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-06",
+    "GregorianDOY": 6,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 6,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-07",
+    "GregorianDOY": 7,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 7,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-08",
+    "GregorianDOY": 8,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 8,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-09",
+    "GregorianDOY": 9,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 9,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-10",
+    "GregorianDOY": 10,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 10,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-11",
+    "GregorianDOY": 11,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 11,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-12",
+    "GregorianDOY": 12,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 12,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-13",
+    "GregorianDOY": 13,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 13,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-14",
+    "GregorianDOY": 14,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 14,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-15",
+    "GregorianDOY": 15,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 15,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-16",
+    "GregorianDOY": 16,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 16,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-17",
+    "GregorianDOY": 17,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 17,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-18",
+    "GregorianDOY": 18,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 18,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-19",
+    "GregorianDOY": 19,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 19,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-20",
+    "GregorianDOY": 20,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 20,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-21",
+    "GregorianDOY": 21,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 21,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-22",
+    "GregorianDOY": 22,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 22,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-23",
+    "GregorianDOY": 23,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 23,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-24",
+    "GregorianDOY": 24,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 24,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-25",
+    "GregorianDOY": 25,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 25,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-26",
+    "GregorianDOY": 26,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 26,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-27",
+    "GregorianDOY": 27,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 27,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-28",
+    "GregorianDOY": 28,
+    "AIFCYear": 2027,
+    "AIFCMonth": 1,
+    "AIFCDay": 28,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-29",
+    "GregorianDOY": 29,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 1,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-30",
+    "GregorianDOY": 30,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 2,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-01-31",
+    "GregorianDOY": 31,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 3,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-01",
+    "GregorianDOY": 32,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 4,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-02",
+    "GregorianDOY": 33,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 5,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-03",
+    "GregorianDOY": 34,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 6,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-04",
+    "GregorianDOY": 35,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 7,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-05",
+    "GregorianDOY": 36,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 8,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-06",
+    "GregorianDOY": 37,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 9,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-07",
+    "GregorianDOY": 38,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 10,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-08",
+    "GregorianDOY": 39,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 11,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-09",
+    "GregorianDOY": 40,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 12,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-10",
+    "GregorianDOY": 41,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 13,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-11",
+    "GregorianDOY": 42,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 14,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-12",
+    "GregorianDOY": 43,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 15,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-13",
+    "GregorianDOY": 44,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 16,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-14",
+    "GregorianDOY": 45,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 17,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-15",
+    "GregorianDOY": 46,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 18,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-16",
+    "GregorianDOY": 47,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 19,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-17",
+    "GregorianDOY": 48,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 20,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-18",
+    "GregorianDOY": 49,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 21,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-19",
+    "GregorianDOY": 50,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 22,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-20",
+    "GregorianDOY": 51,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 23,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-21",
+    "GregorianDOY": 52,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 24,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-22",
+    "GregorianDOY": 53,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 25,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-23",
+    "GregorianDOY": 54,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 26,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-24",
+    "GregorianDOY": 55,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 27,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-25",
+    "GregorianDOY": 56,
+    "AIFCYear": 2027,
+    "AIFCMonth": 2,
+    "AIFCDay": 28,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-26",
+    "GregorianDOY": 57,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 1,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-27",
+    "GregorianDOY": 58,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 2,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-02-28",
+    "GregorianDOY": 59,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 3,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-01",
+    "GregorianDOY": 60,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 4,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-02",
+    "GregorianDOY": 61,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 5,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-03",
+    "GregorianDOY": 62,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 6,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-04",
+    "GregorianDOY": 63,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 7,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-05",
+    "GregorianDOY": 64,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 8,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-06",
+    "GregorianDOY": 65,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 9,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-07",
+    "GregorianDOY": 66,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 10,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-08",
+    "GregorianDOY": 67,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 11,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-09",
+    "GregorianDOY": 68,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 12,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-10",
+    "GregorianDOY": 69,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 13,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-11",
+    "GregorianDOY": 70,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 14,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-12",
+    "GregorianDOY": 71,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 15,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-13",
+    "GregorianDOY": 72,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 16,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-14",
+    "GregorianDOY": 73,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 17,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-15",
+    "GregorianDOY": 74,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 18,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-16",
+    "GregorianDOY": 75,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 19,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-17",
+    "GregorianDOY": 76,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 20,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-18",
+    "GregorianDOY": 77,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 21,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-19",
+    "GregorianDOY": 78,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 22,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-20",
+    "GregorianDOY": 79,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 23,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-21",
+    "GregorianDOY": 80,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 24,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-22",
+    "GregorianDOY": 81,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 25,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-23",
+    "GregorianDOY": 82,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 26,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-24",
+    "GregorianDOY": 83,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 27,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-25",
+    "GregorianDOY": 84,
+    "AIFCYear": 2027,
+    "AIFCMonth": 3,
+    "AIFCDay": 28,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-26",
+    "GregorianDOY": 85,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 1,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-27",
+    "GregorianDOY": 86,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 2,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-28",
+    "GregorianDOY": 87,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 3,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-29",
+    "GregorianDOY": 88,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 4,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-30",
+    "GregorianDOY": 89,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 5,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-03-31",
+    "GregorianDOY": 90,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 6,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-01",
+    "GregorianDOY": 91,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 7,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-02",
+    "GregorianDOY": 92,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 8,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-03",
+    "GregorianDOY": 93,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 9,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-04",
+    "GregorianDOY": 94,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 10,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-05",
+    "GregorianDOY": 95,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 11,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-06",
+    "GregorianDOY": 96,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 12,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-07",
+    "GregorianDOY": 97,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 13,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-08",
+    "GregorianDOY": 98,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 14,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-09",
+    "GregorianDOY": 99,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 15,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-10",
+    "GregorianDOY": 100,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 16,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-11",
+    "GregorianDOY": 101,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 17,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-12",
+    "GregorianDOY": 102,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 18,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-13",
+    "GregorianDOY": 103,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 19,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-14",
+    "GregorianDOY": 104,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 20,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-15",
+    "GregorianDOY": 105,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 21,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-16",
+    "GregorianDOY": 106,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 22,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-17",
+    "GregorianDOY": 107,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 23,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-18",
+    "GregorianDOY": 108,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 24,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-19",
+    "GregorianDOY": 109,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 25,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-20",
+    "GregorianDOY": 110,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 26,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-21",
+    "GregorianDOY": 111,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 27,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-22",
+    "GregorianDOY": 112,
+    "AIFCYear": 2027,
+    "AIFCMonth": 4,
+    "AIFCDay": 28,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-23",
+    "GregorianDOY": 113,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 1,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-24",
+    "GregorianDOY": 114,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 2,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-25",
+    "GregorianDOY": 115,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 3,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-26",
+    "GregorianDOY": 116,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 4,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-27",
+    "GregorianDOY": 117,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 5,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-28",
+    "GregorianDOY": 118,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 6,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-29",
+    "GregorianDOY": 119,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 7,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-04-30",
+    "GregorianDOY": 120,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 8,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-01",
+    "GregorianDOY": 121,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 9,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-02",
+    "GregorianDOY": 122,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 10,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-03",
+    "GregorianDOY": 123,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 11,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-04",
+    "GregorianDOY": 124,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 12,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-05",
+    "GregorianDOY": 125,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 13,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-06",
+    "GregorianDOY": 126,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 14,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-07",
+    "GregorianDOY": 127,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 15,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-08",
+    "GregorianDOY": 128,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 16,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-09",
+    "GregorianDOY": 129,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 17,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-10",
+    "GregorianDOY": 130,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 18,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-11",
+    "GregorianDOY": 131,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 19,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-12",
+    "GregorianDOY": 132,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 20,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-13",
+    "GregorianDOY": 133,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 21,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-14",
+    "GregorianDOY": 134,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 22,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-15",
+    "GregorianDOY": 135,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 23,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-16",
+    "GregorianDOY": 136,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 24,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-17",
+    "GregorianDOY": 137,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 25,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-18",
+    "GregorianDOY": 138,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 26,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-19",
+    "GregorianDOY": 139,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 27,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-20",
+    "GregorianDOY": 140,
+    "AIFCYear": 2027,
+    "AIFCMonth": 5,
+    "AIFCDay": 28,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-21",
+    "GregorianDOY": 141,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 1,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-22",
+    "GregorianDOY": 142,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 2,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-23",
+    "GregorianDOY": 143,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 3,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-24",
+    "GregorianDOY": 144,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 4,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-25",
+    "GregorianDOY": 145,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 5,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-26",
+    "GregorianDOY": 146,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 6,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-27",
+    "GregorianDOY": 147,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 7,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-28",
+    "GregorianDOY": 148,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 8,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-29",
+    "GregorianDOY": 149,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 9,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-30",
+    "GregorianDOY": 150,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 10,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-05-31",
+    "GregorianDOY": 151,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 11,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-01",
+    "GregorianDOY": 152,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 12,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-02",
+    "GregorianDOY": 153,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 13,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-03",
+    "GregorianDOY": 154,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 14,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-04",
+    "GregorianDOY": 155,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 15,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-05",
+    "GregorianDOY": 156,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 16,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-06",
+    "GregorianDOY": 157,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 17,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-07",
+    "GregorianDOY": 158,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 18,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-08",
+    "GregorianDOY": 159,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 19,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-09",
+    "GregorianDOY": 160,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 20,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-10",
+    "GregorianDOY": 161,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 21,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-11",
+    "GregorianDOY": 162,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 22,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-12",
+    "GregorianDOY": 163,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 23,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-13",
+    "GregorianDOY": 164,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 24,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-14",
+    "GregorianDOY": 165,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 25,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-15",
+    "GregorianDOY": 166,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 26,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-16",
+    "GregorianDOY": 167,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 27,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-17",
+    "GregorianDOY": 168,
+    "AIFCYear": 2027,
+    "AIFCMonth": 6,
+    "AIFCDay": 28,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-18",
+    "GregorianDOY": 169,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 1,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-19",
+    "GregorianDOY": 170,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 2,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-20",
+    "GregorianDOY": 171,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 3,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-21",
+    "GregorianDOY": 172,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 4,
+    "AIFCLabel": "",
+    "DayOfSol": true
+  },
+  {
+    "GregorianDate": "2027-06-22",
+    "GregorianDOY": 173,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 5,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-23",
+    "GregorianDOY": 174,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 6,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-24",
+    "GregorianDOY": 175,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 7,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-25",
+    "GregorianDOY": 176,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 8,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-26",
+    "GregorianDOY": 177,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 9,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-27",
+    "GregorianDOY": 178,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 10,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-28",
+    "GregorianDOY": 179,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 11,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-29",
+    "GregorianDOY": 180,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 12,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-06-30",
+    "GregorianDOY": 181,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 13,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-01",
+    "GregorianDOY": 182,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 14,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-02",
+    "GregorianDOY": 183,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 15,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-03",
+    "GregorianDOY": 184,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 16,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-04",
+    "GregorianDOY": 185,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 17,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-05",
+    "GregorianDOY": 186,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 18,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-06",
+    "GregorianDOY": 187,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 19,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-07",
+    "GregorianDOY": 188,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 20,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-08",
+    "GregorianDOY": 189,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 21,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-09",
+    "GregorianDOY": 190,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 22,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-10",
+    "GregorianDOY": 191,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 23,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-11",
+    "GregorianDOY": 192,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 24,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-12",
+    "GregorianDOY": 193,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 25,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-13",
+    "GregorianDOY": 194,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 26,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-14",
+    "GregorianDOY": 195,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 27,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-15",
+    "GregorianDOY": 196,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 28,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-16",
+    "GregorianDOY": 197,
+    "AIFCYear": 2027,
+    "AIFCMonth": 7,
+    "AIFCDay": 29,
+    "AIFCLabel": "Sol-29",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-17",
+    "GregorianDOY": 198,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 1,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-18",
+    "GregorianDOY": 199,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 2,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-19",
+    "GregorianDOY": 200,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 3,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-20",
+    "GregorianDOY": 201,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 4,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-21",
+    "GregorianDOY": 202,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 5,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-22",
+    "GregorianDOY": 203,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 6,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-23",
+    "GregorianDOY": 204,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 7,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-24",
+    "GregorianDOY": 205,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 8,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-25",
+    "GregorianDOY": 206,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 9,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-26",
+    "GregorianDOY": 207,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 10,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-27",
+    "GregorianDOY": 208,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 11,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-28",
+    "GregorianDOY": 209,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 12,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-29",
+    "GregorianDOY": 210,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 13,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-30",
+    "GregorianDOY": 211,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 14,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-07-31",
+    "GregorianDOY": 212,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 15,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-01",
+    "GregorianDOY": 213,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 16,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-02",
+    "GregorianDOY": 214,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 17,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-03",
+    "GregorianDOY": 215,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 18,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-04",
+    "GregorianDOY": 216,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 19,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-05",
+    "GregorianDOY": 217,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 20,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-06",
+    "GregorianDOY": 218,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 21,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-07",
+    "GregorianDOY": 219,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 22,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-08",
+    "GregorianDOY": 220,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 23,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-09",
+    "GregorianDOY": 221,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 24,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-10",
+    "GregorianDOY": 222,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 25,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-11",
+    "GregorianDOY": 223,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 26,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-12",
+    "GregorianDOY": 224,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 27,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-13",
+    "GregorianDOY": 225,
+    "AIFCYear": 2027,
+    "AIFCMonth": 8,
+    "AIFCDay": 28,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-14",
+    "GregorianDOY": 226,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 1,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-15",
+    "GregorianDOY": 227,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 2,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-16",
+    "GregorianDOY": 228,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 3,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-17",
+    "GregorianDOY": 229,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 4,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-18",
+    "GregorianDOY": 230,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 5,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-19",
+    "GregorianDOY": 231,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 6,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-20",
+    "GregorianDOY": 232,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 7,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-21",
+    "GregorianDOY": 233,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 8,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-22",
+    "GregorianDOY": 234,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 9,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-23",
+    "GregorianDOY": 235,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 10,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-24",
+    "GregorianDOY": 236,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 11,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-25",
+    "GregorianDOY": 237,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 12,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-26",
+    "GregorianDOY": 238,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 13,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-27",
+    "GregorianDOY": 239,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 14,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-28",
+    "GregorianDOY": 240,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 15,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-29",
+    "GregorianDOY": 241,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 16,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-30",
+    "GregorianDOY": 242,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 17,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-08-31",
+    "GregorianDOY": 243,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 18,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-01",
+    "GregorianDOY": 244,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 19,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-02",
+    "GregorianDOY": 245,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 20,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-03",
+    "GregorianDOY": 246,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 21,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-04",
+    "GregorianDOY": 247,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 22,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-05",
+    "GregorianDOY": 248,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 23,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-06",
+    "GregorianDOY": 249,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 24,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-07",
+    "GregorianDOY": 250,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 25,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-08",
+    "GregorianDOY": 251,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 26,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-09",
+    "GregorianDOY": 252,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 27,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-10",
+    "GregorianDOY": 253,
+    "AIFCYear": 2027,
+    "AIFCMonth": 9,
+    "AIFCDay": 28,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-11",
+    "GregorianDOY": 254,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 1,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-12",
+    "GregorianDOY": 255,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 2,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-13",
+    "GregorianDOY": 256,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 3,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-14",
+    "GregorianDOY": 257,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 4,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-15",
+    "GregorianDOY": 258,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 5,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-16",
+    "GregorianDOY": 259,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 6,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-17",
+    "GregorianDOY": 260,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 7,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-18",
+    "GregorianDOY": 261,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 8,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-19",
+    "GregorianDOY": 262,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 9,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-20",
+    "GregorianDOY": 263,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 10,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-21",
+    "GregorianDOY": 264,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 11,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-22",
+    "GregorianDOY": 265,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 12,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-23",
+    "GregorianDOY": 266,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 13,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-24",
+    "GregorianDOY": 267,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 14,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-25",
+    "GregorianDOY": 268,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 15,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-26",
+    "GregorianDOY": 269,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 16,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-27",
+    "GregorianDOY": 270,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 17,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-28",
+    "GregorianDOY": 271,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 18,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-29",
+    "GregorianDOY": 272,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 19,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-09-30",
+    "GregorianDOY": 273,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 20,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-01",
+    "GregorianDOY": 274,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 21,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-02",
+    "GregorianDOY": 275,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 22,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-03",
+    "GregorianDOY": 276,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 23,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-04",
+    "GregorianDOY": 277,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 24,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-05",
+    "GregorianDOY": 278,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 25,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-06",
+    "GregorianDOY": 279,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 26,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-07",
+    "GregorianDOY": 280,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 27,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-08",
+    "GregorianDOY": 281,
+    "AIFCYear": 2027,
+    "AIFCMonth": 10,
+    "AIFCDay": 28,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-09",
+    "GregorianDOY": 282,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 1,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-10",
+    "GregorianDOY": 283,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 2,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-11",
+    "GregorianDOY": 284,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 3,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-12",
+    "GregorianDOY": 285,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 4,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-13",
+    "GregorianDOY": 286,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 5,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-14",
+    "GregorianDOY": 287,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 6,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-15",
+    "GregorianDOY": 288,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 7,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-16",
+    "GregorianDOY": 289,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 8,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-17",
+    "GregorianDOY": 290,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 9,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-18",
+    "GregorianDOY": 291,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 10,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-19",
+    "GregorianDOY": 292,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 11,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-20",
+    "GregorianDOY": 293,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 12,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-21",
+    "GregorianDOY": 294,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 13,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-22",
+    "GregorianDOY": 295,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 14,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-23",
+    "GregorianDOY": 296,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 15,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-24",
+    "GregorianDOY": 297,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 16,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-25",
+    "GregorianDOY": 298,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 17,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-26",
+    "GregorianDOY": 299,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 18,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-27",
+    "GregorianDOY": 300,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 19,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-28",
+    "GregorianDOY": 301,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 20,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-29",
+    "GregorianDOY": 302,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 21,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-30",
+    "GregorianDOY": 303,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 22,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-10-31",
+    "GregorianDOY": 304,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 23,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-01",
+    "GregorianDOY": 305,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 24,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-02",
+    "GregorianDOY": 306,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 25,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-03",
+    "GregorianDOY": 307,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 26,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-04",
+    "GregorianDOY": 308,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 27,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-05",
+    "GregorianDOY": 309,
+    "AIFCYear": 2027,
+    "AIFCMonth": 11,
+    "AIFCDay": 28,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-06",
+    "GregorianDOY": 310,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 1,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-07",
+    "GregorianDOY": 311,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 2,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-08",
+    "GregorianDOY": 312,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 3,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-09",
+    "GregorianDOY": 313,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 4,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-10",
+    "GregorianDOY": 314,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 5,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-11",
+    "GregorianDOY": 315,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 6,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-12",
+    "GregorianDOY": 316,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 7,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-13",
+    "GregorianDOY": 317,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 8,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-14",
+    "GregorianDOY": 318,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 9,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-15",
+    "GregorianDOY": 319,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 10,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-16",
+    "GregorianDOY": 320,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 11,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-17",
+    "GregorianDOY": 321,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 12,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-18",
+    "GregorianDOY": 322,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 13,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-19",
+    "GregorianDOY": 323,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 14,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-20",
+    "GregorianDOY": 324,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 15,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-21",
+    "GregorianDOY": 325,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 16,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-22",
+    "GregorianDOY": 326,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 17,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-23",
+    "GregorianDOY": 327,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 18,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-24",
+    "GregorianDOY": 328,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 19,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-25",
+    "GregorianDOY": 329,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 20,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-26",
+    "GregorianDOY": 330,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 21,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-27",
+    "GregorianDOY": 331,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 22,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-28",
+    "GregorianDOY": 332,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 23,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-29",
+    "GregorianDOY": 333,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 24,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-11-30",
+    "GregorianDOY": 334,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 25,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-01",
+    "GregorianDOY": 335,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 26,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-02",
+    "GregorianDOY": 336,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 27,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-03",
+    "GregorianDOY": 337,
+    "AIFCYear": 2027,
+    "AIFCMonth": 12,
+    "AIFCDay": 28,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-04",
+    "GregorianDOY": 338,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 1,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-05",
+    "GregorianDOY": 339,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 2,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-06",
+    "GregorianDOY": 340,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 3,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-07",
+    "GregorianDOY": 341,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 4,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-08",
+    "GregorianDOY": 342,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 5,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-09",
+    "GregorianDOY": 343,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 6,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-10",
+    "GregorianDOY": 344,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 7,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-11",
+    "GregorianDOY": 345,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 8,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-12",
+    "GregorianDOY": 346,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 9,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-13",
+    "GregorianDOY": 347,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 10,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-14",
+    "GregorianDOY": 348,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 11,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-15",
+    "GregorianDOY": 349,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 12,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-16",
+    "GregorianDOY": 350,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 13,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-17",
+    "GregorianDOY": 351,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 14,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-18",
+    "GregorianDOY": 352,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 15,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-19",
+    "GregorianDOY": 353,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 16,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-20",
+    "GregorianDOY": 354,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 17,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-21",
+    "GregorianDOY": 355,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 18,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-22",
+    "GregorianDOY": 356,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 19,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-23",
+    "GregorianDOY": 357,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 20,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-24",
+    "GregorianDOY": 358,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 21,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-25",
+    "GregorianDOY": 359,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 22,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-26",
+    "GregorianDOY": 360,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 23,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-27",
+    "GregorianDOY": 361,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 24,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-28",
+    "GregorianDOY": 362,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 25,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-29",
+    "GregorianDOY": 363,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 26,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-30",
+    "GregorianDOY": 364,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 27,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  },
+  {
+    "GregorianDate": "2027-12-31",
+    "GregorianDOY": 365,
+    "AIFCYear": 2027,
+    "AIFCMonth": 13,
+    "AIFCDay": 28,
+    "AIFCLabel": "",
+    "DayOfSol": false
+  }
+]
