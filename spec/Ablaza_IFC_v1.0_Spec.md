@@ -28,6 +28,7 @@
 - **Julian↔Gregorian:** historical switch tables apply; then use DOY→A‑IFC.
 - **Lunisolar (e.g., Chinese):** use official annual civil conversions to Gregorian, then DOY→A‑IFC.
 - **Deep history:** provide ΔT (TT−UT) references for eclipse‑dated chronologies.
+- **Holidays:** All public holidays per nation will be updated accordingly per each day set in the gregorian calendar mapping to the Alexan International Fixed Calendar accordingly so there zero lossless change.
 
 ## Deliverables
 
