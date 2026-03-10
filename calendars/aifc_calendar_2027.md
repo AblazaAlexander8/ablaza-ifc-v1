@@ -1,4 +1,4 @@
-# A‑IFC 2027 (non leap year)
+# A‑IFC 2027 (Non-leap year)
 **Legend:** ★ Day of Sol; ✚ Sol‑29/Dec‑29
 
 ## Month 1 - January
